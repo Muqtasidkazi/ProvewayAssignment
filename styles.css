@@ -263,6 +263,7 @@ input[type="radio"] {
   align-self: self-end;
   color: #c8c8c8;
   font-style: italic;
+  font-size:12px;
 }
 .popular {
   position: absolute;
